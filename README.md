@@ -1,8 +1,10 @@
 # TD-OpenCV-Tracker
 TouchDesigner component, which allows to track objects in selected ROI (Region Of Interest)
 
+To start tracking select **Tracker type** and press **Re-init**
+
 # Overview
-![OpenCV-Tracker_example_out](Assets/OpenCV-Tracker_example_out.png)
+![OpenCV-Tracker_example_out](Assets/OpenCV-Tracker_example_out.gif)
 
 # Parameters
 
